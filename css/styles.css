@@ -1,8 +1,30 @@
 .Part1{
+    text-align: center;
+    background: transparent;
+    font-size: small;
+    font-weight: bold;
+    color: white;
+}
+.section-1{
     background: url("/IMAGES/man\ shoes.jpg");
-    background-size: cover;
     height: 100vh;
-}.Part2{
-
+    background-size: cover;
+    
+}
+.Division B{
+    background: whitesmoke;
+    height: 50vh;
 }
 
+.Part2{
+    text-align: center;
+    font-size: 1em;
+    color: black;
+    background: transparent;
+}
+.section-3{
+    background: url("/IMAGES/laptop.jpg");
+    height: 50vh;
+    background-size: cover;
+
+}
