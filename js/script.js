@@ -15,15 +15,31 @@ $(document).ready(function(){
     });
 
 
-    $("#submit").click(function(){
+    $("#submit").click(function(event){
         var name=$("#name").val();
      
          alert( " Hello "  +   name   +  " We have received your message.Thank you for reaching out to us")
+         event.preventDefault();
         })
 
     
-    $("#project1").hover(function(){
-        $(this)
+    $("#pic1, #project2").hover(function(){
+        $("#pic1").fadeIn("slow");
+        $("#project2").mouseout(function(){
+        $("#pic1").fadeOut("slow");
+            }); 
+            });
+
+ 
+   
+
+
+
+
+
+
+
+
 
         
     })
@@ -33,7 +49,3 @@ $(document).ready(function(){
  
 
 
-
-    
-
-});

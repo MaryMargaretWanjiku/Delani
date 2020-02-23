@@ -108,8 +108,7 @@ h5{
 }
 
 #blank{
-    top: 45%;
-    right: 35%;
+   
     color: white;
     display: none;
     position: absolute;
@@ -117,7 +116,8 @@ h5{
 
 #pic1{
     
-    position: relative;
+    
+    position: absolute;
     color: yellowgreen;
     display: none;
 }
@@ -165,8 +165,7 @@ h5{
 }
 
 #pic8{
-    top: 45%;
-    right: 35%;
+   
     position: absolute;
     color: yellowgreen;
     display: none;
