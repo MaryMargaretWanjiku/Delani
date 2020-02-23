@@ -28,3 +28,83 @@
     background-size: cover;
 
 }
+.Part3{
+    font-size: 12px;
+    text-align: center;
+    background: transparent;
+    color:white;
+}
+
+.Part4{
+    color: black;
+    text-align: center;
+    min-height: 360px;
+}
+
+.section-4{
+    background: whitesmoke;
+    height: 50vh;
+}
+
+.section-5{
+    text-align: center;
+    height: 100vh;
+    padding: 0% 140px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.Part5{
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+    background: transparent;
+    color: white;
+}
+
+.form{
+    display: inline;
+}
+
+.textarea{
+    width: 35%;
+    margin: 0 auto;
+}
+
+.section-6{
+    background: url("/IMAGES/background.jpg");
+    height: 50vh;
+    color: white;
+    text-align: center;
+    background-size: cover;
+}
+
+.section-7{
+    text-align: center;
+}
+
+.design-description{
+    display: none;
+}
+
+.develop-description{
+    display: none;
+}
+
+.product-description{
+    display: none;
+}
+
+#blank{
+    top: 45%;
+    right: 35%;
+    color: white;
+    display: none;
+    position: absolute;
+}
+
+#pic
