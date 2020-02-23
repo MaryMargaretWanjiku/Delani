@@ -20,6 +20,13 @@ $(document).ready(function(){
      
          alert( " Hello "  +   name   +  " We have received your message.Thank you for reaching out to us")
         })
+
+    
+    $("#project1").hover(function(){
+        $(this)
+
+        
+    })
     
     
  
