@@ -15,6 +15,7 @@
             <img src="IMAGES/logo.png">
             <p><strong><br><br><br>WELCOME<br>TO DELANI STUDIOS</strong></p>
             <p>AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT<br><br><br></p>
+            <p><br><br><br><br></p>
             <img src="IMAGES/mouse_click.png">
          </div>
     </div>
@@ -128,6 +129,7 @@
         <div class="container-fluid section-6">
             <p><br></p>
             <p>CONTACT US</p>
+            <form id="contact">
              
                 <div class="form">
                     <input type="text" style="background-color: rgba(0,0,0,0)" placeholder="Name..." id="name">
@@ -136,8 +138,9 @@
             
 
             <div>
-                <textarea class="textarea" id="" rows="5" style="background-color: rgba(0,0,0,0);" placeholder="Your message here..." id="message"></textarea>
-                <button id="myform">Submit</button>
+                <textarea class="textarea" id="message" rows="5" style="background-color: rgba(0,0,0,0);" placeholder="Your message here..." id="message"></textarea>
+                <button id="submit" type="submit" onclick="validateForm()">Submit</button>
+            </form>
             </div>
             
         </div>

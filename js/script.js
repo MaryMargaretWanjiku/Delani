@@ -14,10 +14,19 @@ $(document).ready(function(){
         $(".develop").fadeToggle();
     });
 
-    $("#blank, #project1").hover(function(){
-        $("#blank").slideDown("slow");
-        $("#project1").mouseout(function(){
-            $("#blank").slideUp("slow");
-        });
-    });
+
+    $("#submit").click(function(){
+        var name=$("#name").val();
+     
+         alert( " Hello "  +   name   +  " We have received your message.Thank you for reaching out to us")
+        })
+    
+    
+ 
+ 
+
+
+
+    
+
 });

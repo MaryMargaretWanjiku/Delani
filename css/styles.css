@@ -116,56 +116,49 @@ h5{
 }
 
 #pic1{
-    top: 45%;
-    right: 35%;
-    position: absolute;
+    
+    position: relative;
     color: yellowgreen;
     display: none;
 }
 
 #pic2{
-    top: 45%;
-    right: 35%;
+    
     position: absolute;
     color: yellowgreen;
     display: none;
 }
 
 #pic3{
-    top: 45%;
-    right: 35%;
+ 
     position: absolute;
     color: yellowgreen;
     display: none;
 }
 
 #pic4{
-    top: 45%;
-    right: 35%;
+   
     position: absolute;
     color: yellowgreen;
     display: none;
 }
 
 #pic5{
-    top: 45%;
-    right: 35%;
+  
     position: absolute;
     color: yellowgreen;
     display: none;
 }
 
 #pic6{
-    top: 45%;
-    right: 35%;
+ 
     position: absolute;
     color: yellowgreen;
     display: none;
 }
 
 #pic7{
-    top: 45%;
-    right: 35%;
+
     position: absolute;
     color: yellowgreen;
     display: none;
@@ -177,14 +170,12 @@ h5{
     position: absolute;
     color: yellowgreen;
     display: none;
-    height: 200px;
-    width: 200px;
+ 
 }
 
-#portfolio{
-    text-align: center;
-    align-items: center;
-    margin-left: 160px;
-    margin-right: 60px;
 
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
