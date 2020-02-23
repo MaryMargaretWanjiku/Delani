@@ -4,6 +4,7 @@
     font-size: small;
     font-weight: bold;
     color: white;
+    font-family: Poppins;
 }
 .section-1{
     background: url("/IMAGES/man\ shoes.jpg");
@@ -175,6 +176,10 @@ h5{
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+}
+
+p{
+    font-family: Simonetta;
 }
 
 
