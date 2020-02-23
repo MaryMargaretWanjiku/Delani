@@ -139,42 +139,38 @@ h5{
 #pic4{
    
     position: absolute;
-    color: yellowgreen;
+    color: white;
     display: none;
 }
 
 #pic5{
   
     position: absolute;
-    color: yellowgreen;
+    color: white;
     display: none;
 }
 
 #pic6{
  
     position: absolute;
-    color: yellowgreen;
+    color: white;
     display: none;
 }
 
 #pic7{
 
     position: absolute;
-    color: yellowgreen;
+    color: white;
     display: none;
 }
 
 #pic8{
    
     position: absolute;
-    color: yellowgreen;
+    color: white;
     display: none;
  
 }
 
 
 
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
