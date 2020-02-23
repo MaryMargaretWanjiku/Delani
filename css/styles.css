@@ -38,7 +38,7 @@
 .Part4{
     color: black;
     text-align: center;
-    min-height: 360px;
+    min-height: 300px;
 }
 
 .section-4{
@@ -68,6 +68,11 @@ body{
 
 .form{
     display: inline;
+    color: gainsboro;
+}
+
+#myform{
+    background-color: yellowgreen;
 }
 
 .textarea{
@@ -98,6 +103,9 @@ body{
 .product-description{
     display: none;
 }
+h5{
+    text-align: center;
+}
 
 #blank{
     top: 45%;
@@ -107,4 +115,76 @@ body{
     position: absolute;
 }
 
-#pic
+#pic1{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic2{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic3{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic4{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic5{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic6{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic7{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+}
+
+#pic8{
+    top: 45%;
+    right: 35%;
+    position: absolute;
+    color: yellowgreen;
+    display: none;
+    height: 200px;
+    width: 200px;
+}
+
+#portfolio{
+    text-align: center;
+    align-items: center;
+    margin-left: 160px;
+    margin-right: 60px;
+
+}
