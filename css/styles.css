@@ -110,7 +110,7 @@ h5{
 
 #blank{
    
-    color: white;
+   color: black;
     display: none;
     position: absolute;
 }
@@ -119,56 +119,56 @@ h5{
     
     
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic2{
     
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic3{
  
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic4{
    
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic5{
   
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic6{
  
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic7{
 
     position: absolute;
-    color: white;
+    color: black;
     display: none;
 }
 
 #pic8{
    
     position: absolute;
-    color: white;
+    color: black;
     display: none;
  
 }

@@ -17,10 +17,21 @@ $(document).ready(function () {
 
     $("#submit").click(function (event) {
         var name = $("#name").val();
+        var email= $("#email").val();
+        var message=$("#message").val();
+
+        if (name === '' || email === '' || message === '') {
+            alert('Please fill in the required data');
+
+        } else {
+
+        
 
         alert(" Hello " + name + " We have received your message.Thank you for reaching out to us")
         event.preventDefault();
-    })
+        };
+
+
 
 
     
@@ -99,8 +110,4 @@ $(document).ready(function () {
 
 })
 
-
-
-
-
-
+})
