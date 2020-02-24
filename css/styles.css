@@ -12,7 +12,7 @@ html, body {
     font-family: Poppins;
 }
 .section-1{
-    background: url("/IMAGES/man\ shoes.jpg");
+    background: url("IMAGES/man\ shoes.jpg");
     height: 100vh;
     background-size: cover;
     
@@ -29,7 +29,7 @@ html, body {
     background: transparent;
 }
 .section-3{
-    background: url("/IMAGES/laptop.jpg");
+    background: url("IMAGES/laptop.jpg");
     height: 50vh;
     background-size: cover;
 
@@ -87,7 +87,7 @@ body{
 }
 
 .section-6{
-    background: url("/IMAGES/background.jpg");
+    background: url("IMAGES/background.jpg");
     height: 50vh;
     color: white;
     text-align: center;
@@ -184,4 +184,6 @@ p{
 }
 
 
-
+.picfour{
+    margin-top: 10px;
+}
